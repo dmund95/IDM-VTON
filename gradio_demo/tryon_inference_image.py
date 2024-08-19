@@ -331,3 +331,5 @@ def run_inferece():
 
 # image_blocks.launch()
 
+if __name__=='__main__':
+    run_inferece()
